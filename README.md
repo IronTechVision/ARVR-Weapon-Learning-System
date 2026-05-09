@@ -76,8 +76,6 @@ The system focuses on interactive weapon visualization, intelligent educational 
 ### AR Weapon Learning Interface
 ![AR Weapon Learning](ARweponlerning.png)
 
-### Weapon Visualization
-![Weapon Visualization](wepon.png)
 
 ## Author
 Aryan Kamble
